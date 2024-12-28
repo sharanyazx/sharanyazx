@@ -1,13 +1,11 @@
 # Personal Information
 
-## 👩‍💻 Full Name
-Sharanya T.
+## 👩‍💻 Hi I'm Sharanya
 
-## 🔗 LinkedIn Profile
-[Sharanya's LinkedIn](https://www.linkedin.com/in/sharanya-thirumoorthi)
 
-## 🐱 GitHub Profile
-[Sharanya's GitHub](https://github.com/sharanyazx_)
+## 🔗 LinkedIn Profile [Sharanya's LinkedIn](https://www.linkedin.com/in/sharanya-thirumoorthi)
+
+## 🐱 GitHub Profile [Sharanya's GitHub](https://github.com/sharanyazx_)
 
 ## 🌱 Areas of Interest
 - Data Structures and Algorithms (DSA)
