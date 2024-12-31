@@ -5,7 +5,7 @@
 
 ### 🔗 LinkedIn Profile [Sharanya's LinkedIn](https://www.linkedin.com/in/sharanya-thirumoorthi)
 
-### 🐱 GitHub Profile [Sharanya's GitHub](https://github.com/sharanyazx_)
+### 🐱 Leetcode[Sharanya's Leetcode](https://leetcode.com/u/Sharanya01/)
 
 ## 🌱 Areas of Interest
 - Data Analyst
