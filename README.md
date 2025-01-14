@@ -29,3 +29,6 @@
 # Leetcode
 ### Leetcode-solved
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Sharanya01?theme=dark&font=Port%20Lligat%20Sans&ext=heatmap)
+
+# Sharanya's Github Stats
+![Sharanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharanyazx&show_icons=true&theme=radical)
