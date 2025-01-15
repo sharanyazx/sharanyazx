@@ -32,3 +32,6 @@
 
 # Sharanya's Github Stats
 ![Sharanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sharanyazx&show_icons=true&theme=radical)
+
+# Sharanya's GitHub Contribution
+[![Sharanya's github activity graph](https://github-readme-activity-graph.vercel.app/graphusername=sharanyazx&bg_color=141414&color=9e4c98&line=317d4e&point=c478ba&area=true&hide_border=true)]
