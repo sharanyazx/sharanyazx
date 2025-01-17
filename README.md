@@ -10,7 +10,7 @@
 
 ### 🐱 Leetcode  [Sharanya's Leetcode](https://leetcode.com/u/Sharanya01/)
 
-### 🧩 InterviewBit [Sharanya's IB profile](https://www.interviewbit.com/profile/sharanya_768/)
+
 
 ## 🌱 Areas of Interest
 - Data Analyst
