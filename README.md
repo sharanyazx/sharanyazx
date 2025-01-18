@@ -6,7 +6,7 @@
 ## 👩‍💻 Hi I'm Sharanya
 
 
-### 🔗 LinkedIn Profile [Sharanya's LinkedIn](https://www.linkedin.com/in/sharanya-thirumoorthi)
+### 🔗 LinkedIn Profile [Sharanya's LinkedIn](https://www.linkedin.com/in/sharanya-thirumoorthi-6a47a8258/)
 
 ### 🐱 Leetcode  [Sharanya's Leetcode](https://leetcode.com/u/Sharanya01/)
 
