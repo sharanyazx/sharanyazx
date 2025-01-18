@@ -1,16 +1,16 @@
 # Welcome to My GitHub
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=sharanyazx&label=Profile%20views&color=0e75b6&style=flat" alt="sharanyazx" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharanyazx&label=Profile%20views&color=0e75b6&style=flat" alt="sharanyazx" /> </p>
-
-
-## 👩‍💻 Hi I'm Sharanya
-
+                                                          
+##  👩‍💻 Hi I'm Sharanya
 
 ### 🔗 LinkedIn Profile [Sharanya's LinkedIn](https://www.linkedin.com/in/sharanya-thirumoorthi-6a47a8258/)
 
 ### 🐱 Leetcode  [Sharanya's Leetcode](https://leetcode.com/u/Sharanya01/)
 
 
+
+---
 
 ## 🌱 Areas of Interest
 - Data Analyst
@@ -54,6 +54,8 @@
 
 # Sharanya's GitHub Contribution
 [![Sharanya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sharanyazx&bg_color=141414&color=9e4c98&line=317d4e&point=c478ba&area=true&hide_border=true)]
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharanyazx&show_icons=true&locale=en&layout=compact" alt="sharanyazx" /></p>
+
 
 
 
