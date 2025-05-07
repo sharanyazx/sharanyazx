@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=sharanyazx&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h1 align="center">Hi there, I'm <span style="color:#ff70a6">Sharanya T</span> 👩‍💻</h1>
+<h1 align="center">Hi there, I'm <span style="color:#ff70a6">Sharanya </span> 👩‍💻</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF61A6&center=true&vCenter=true&width=435&lines=Aspiring+Data+Analyst;Java+%2F+Python+Coder;ML+%7C+BI+Enthusiast;Curious+Lifelong+Learner" alt="Typing SVG" />
